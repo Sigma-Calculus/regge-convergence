@@ -7,6 +7,9 @@
 #  wurde. Es basiert auf gerichteten Pfaden (σ-Pfaden) und misst
 #  die additive Spannungskohärenz gemäß Theorem 6.1 (σ-Konvergenzsatz).
 #
+#  Zur Prüfung der Robustheit wurde σ.7 gezielt verletzt.
+#  Das Mesh ist absichtlich nicht quasi-uniform – das ist Teil der Teststrategie.
+#
 #  Abschnittsbezug:
 #    - σ-Pfade: Definition 2.1 (gerichtete Pfade)
 #    - Spannung: Definition 2.2 (Tension functional)
