@@ -5,4 +5,4 @@ Python script to analyze the convergence behavior of the Regge action on a $Y_{2
 ## Contents
 - Richardson error analysis
 - Global and local convergence rates
-- Plot generation (see `figures/`)
+- Plot generation 
